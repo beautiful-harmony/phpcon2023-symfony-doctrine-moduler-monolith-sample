@@ -13,6 +13,7 @@
    <!-- <rule ref="SlevomatCodingStandard"/>-->
    <!-- <rule ref="Drupal"/>-->
    <!-- <rule ref="DrupalPractice"/>-->
+    <rule ref="Magento2"/>
 
     <file>bin/</file>
     <file>config/</file>
