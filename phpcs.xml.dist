@@ -8,8 +8,9 @@
     <arg name="colors"/>
     <arg name="extensions" value="php"/>
 
-   <!--<rule ref="PSR12"/>-->
-    <rule ref="Doctrine"/>
+    <!--<rule ref="PSR12"/>-->
+   <!--<rule ref="Doctrine"/> -->
+    <rule ref="SlevomatCodingStandard"/>
 
     <file>bin/</file>
     <file>config/</file>
