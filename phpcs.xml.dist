@@ -9,8 +9,10 @@
     <arg name="extensions" value="php"/>
 
     <!--<rule ref="PSR12"/>-->
-   <!--<rule ref="Doctrine"/> -->
-    <rule ref="SlevomatCodingStandard"/>
+    <!--<rule ref="Doctrine"/> -->
+   <!-- <rule ref="SlevomatCodingStandard"/>-->
+   <!-- <rule ref="Drupal"/>-->
+   <!-- <rule ref="DrupalPractice"/>-->
 
     <file>bin/</file>
     <file>config/</file>
