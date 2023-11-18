@@ -8,12 +8,7 @@
     <arg name="colors"/>
     <arg name="extensions" value="php"/>
 
-    <!--<rule ref="PSR12"/>-->
-    <!--<rule ref="Doctrine"/> -->
-   <!-- <rule ref="SlevomatCodingStandard"/>-->
-   <!-- <rule ref="Drupal"/>-->
-   <!-- <rule ref="DrupalPractice"/>-->
-    <rule ref="Magento2"/>
+    <rule ref="Squiz.PHP.CommentedOutCode" />
 
     <file>bin/</file>
     <file>config/</file>
